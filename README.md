@@ -24,3 +24,9 @@ Nuvem híbrida: é uma combinação de nuvem pública e privada, permitindo que 
 - Beneficios computação em núvem
 
 Maior segurança e confiabilidade, facilidade na recuperação de dados, escalabilidade e disponibilidade.
+
+SLA - Tempo aceitável de indisponibilidade que é possível por recurso
+![image](https://github.com/user-attachments/assets/0d59b182-a94b-4462-b518-8ebaa38701d8)
+
+Região - Latencia e disponibilidade 
+Muitas regiões do Azure fornecem zonas de disponibilidade, que são grupos separados de datacenters. Nas regiões, as zonas de disponibilidade são próximas o suficiente para conexões de baixa latência com outras zonas de disponibilidade, mas distantes o suficiente para reduzir a probabilidade de que mais de uma delas seja afetada por interrupções locais ou clima.
